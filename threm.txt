@@ -1,0 +1,5 @@
+1.variables => var. let. const
+1.1matematik amallar
+2. O'zlashtirish operatorlari, a+=d; a=a+b;
+3.Math = Math trunc()
+4. Solishtirish operatorlari
